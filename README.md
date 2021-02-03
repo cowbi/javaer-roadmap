@@ -2,7 +2,7 @@
 
 # javaer-roadmap
 
-* 目前*javaer*只会*java*基本上找不到工作，市场对*全栈coder*的需求越来越强。而Github上已经有很多
+* Github上已经有很多
   java及周边技术的优秀项目，发现深度有余，广度不足。所以本项目不在深度上继续扩展，而在广度上给大家分享一些当前职场火热的技术导航。其中包括相关的[GitHub项目](#开源项目)、书籍、资料、网站等。帮助javaer在未来的道理上越走越宽广。早日实现财务自由。
   
 * 本项目启发于一些[知识类GitHub](#知识类) 。
@@ -11,17 +11,15 @@
   
 * 除此之外，javaer还需要了解一些圈外的认知：[学习](#学习成长)、[产品](#产品)、[运营](#运营)、[管理](#管理)、[英语](#英语)、[创业](#创业)、[思维](#思维)、[职场](#职场)、[情感](#情感)、[投资理财](#投资理财)、[销售](#销售)、[创意](#创意)、[超级大脑](#超级大脑)、[演讲&谈判](#演讲&谈判)。项目也分享了相关电子书和资料。
   
-* 关于电子书 下载 & 免责申明
+* **关于电子书 下载 & 免责申明**
 
-  为了方便大家下载，所有电子书都放在同一个下载地址，也可以到各目录按需单独下载。
-
-  本项目电子书全部来源于网络，这里只做整理，不得用于商业。如有侵权，秒删。联系微信/qq：252050992。
+  本项目电子书全部来源于网络，这里只做整理，不得用于商业。如有侵权，联系秒删。微信/qq：252050992。
 
 * 诚邀大家一起共建项目。
 
 * 配套公号「程序员读书俱乐部」，里面有更多知识的详解
 
-  ![](static/image/weixin.jpeg)
+  ![](static/image/weixin.png)
 
 # 技术
 
@@ -29,19 +27,20 @@
 
 ## 计算机组成原理
 
-- 《编码：隐匿在计算机软硬件背后的语言》pdf下载 购买正版
-- 《大话计算机 》
-- 《计算机是怎样跑起来的》*
+- [下载全部pdf](https://pan.baidu.com/s/1d5gLDYTucY8MtmaqCSDbwg)  *密码：nm3r*
+- 《编码》
+- 《计算机是怎样跑起来的》
 - 《计算机程序的构造和解释(原书第2版)》*
 
 ## 操作系统
 
+- [下载本节全部pdf](https://pan.baidu.com/s/1qW48jI0HuyU8tty9lvXnKQ)  *密码: wii5*
 - 程序是怎样跑起来的 * 
 - 深入理解计算机操作系统 
 - 现代操作系统
 - C程序设计语言 *
 - C Primer Plus *
-- 汇编语言*
+- 汇编语言 * 直接对CPU进行操作的语言
 - 编译原理
 - 编程语言实现模式 *
 - 编程珠玑
@@ -50,15 +49,17 @@
 
 ## 数据结构与算法
 
-- Java数据结构与算法 *
-- 算法图解 *
-- 算法导论 *
-- 算法第四版 *
-- 数据结构与算法分析Java语言描述版
-- 大话数据结构
+- [下载本节全部pdf](https://pan.baidu.com/s/16nqzCA8P9O1G2UQ_7zPSXQ) *密码: a5c0*
+- *Java数据结构与算法*
+- *算法图解*
+- *算法导论*
+- *算法第四版* 
+- 《数据结构与算法分析Java语言描述版》
+- 《大话数据结构》
 
 ##  网络
 
+- [下载本节全部pdf](https://pan.baidu.com/s/1rq6s0kBnKMIYhNCzWj28rw) 密码: kf16
 - 计算机网络
 - 图解HTTP
 - 图解TC/IP *
@@ -68,6 +69,7 @@
 - TCP/IP详解 *
 ## 设计模式
 
+- [下载本节全部pdf](https://pan.baidu.com/s/1i-mc1F3K3WzM9ifPVSESkA)  *密码: ilh1*
 - 图解设计模式
 - 研磨设计模式
 - Head First设计模式
@@ -77,6 +79,7 @@
 
 * JDK文档 & 源码
 * [JDK官网下载](https://www.oracle.com/java/technologies/javase-downloads.html)
+* [下载本节全部pdf](https://pan.baidu.com/s/1AsLTMzc8k4_X5xUswbw2_Q) *密码: vvu1*
 
 - 《阿里巴巴Java开发手册》
 - 《google java 开发手册》
@@ -96,28 +99,45 @@
 - 《轻量级JavaEE企业应用实战 》
 - 《深入分析JavaWeb技术内幕》
 
-- Java se 11中文 api
 
 ## Spring
+- [下载本节全部pdf](https://pan.baidu.com/s/1sIKa-N8UtoHnf5Lnz-6Tyw) *密码: vvw9*
 - 《Spring in Action》
 - 《Spring Boot开发实战》
 - 《深入实践Spring Boot.陈韶健》
 - 《SpringBoot揭秘+快速构建微服务体系》
 - 《Spring Cloud 微服务架构进阶》
 - 《Spring Cloud与Docker微服务架构实战 ,周立》
+- 《Spring源码深度解析（第2版）》
+
+## SpringBoot
+
+* [下载本节全部pdf](https://pan.baidu.com/s/1q815tROWtgLiFnKAxqjTBg) *密码: sovs*
+* 深入实践Spring Boot.陈韶健
+* Spring Boot开发实战
+* SpringBoot揭秘 快速构建微服务体系
+
+## SpringCloud
+
+* [下载本节全部pdf](https://pan.baidu.com/s/12du-Lye5qdULLmGYcGFalw) *密码: 1lru*
+* 《重新定义Spring Cloud实战》
+* 《Java微服务》
+* 《Spring Cloud 微服务架构进阶》
+* 《Spring Cloud与Docker微服务架构实战》
 
 ## Mysql
 
 - [官网](https://www.mysql.com/)
-- 高性能MySQL
-- 深入浅出MySQL
-- MySQL必知必会
-- MySQL技术内幕InnoDB存储引擎 * 
-- SQL查询的艺术 
+- [下载本节全部pdf](https://pan.baidu.com/s/1s8PflIe5ZEI8tnTXIZ86-g) 密码: kugh
+- 《高性能MySQL》
+- 《深入浅出MySQL》
+- 《MySQL必知必会》
+- 《MySQL技术内幕InnoDB存储引擎》 
+- 《SQL查询的艺术》
 
 ##  Redis
 
-* 《Redis设计与实现》电子书 [官网](http://redisbook.com/) *
+* 《Redis设计与实现》电子书 [官网](http://redisbook.com/)
 * 《Redis开发与运维》
 * [官网](https://redis.io/)
 * [Github源码](https://github.com/redis/redis)
@@ -134,6 +154,7 @@
 * 《Docker入门与实战》
 * 《Docker第一本书》*
 * 《自己动手写Docker》*
+* [下载本节全部pdf](https://pan.baidu.com/s/1I8Oj33LUOOeh4WKJB0-KqA) *密码: od34*
 
 ##  Kubernetes
 
@@ -154,13 +175,15 @@
 
 * [官网](https://jenkins.io/doc/)
 * [Github源码](https://github.com/jenkinsci/jenkins)
-* 《Jenkins权威指南》*
+* 《Jenkins权威指南》
+* [下载本节全部pdf](https://pan.baidu.com/s/1YJv2RZfGKeqaddJanyfORw) *密码: evp6*
 
 ## Elasticsearch
 
 * [官网](https://www.elastic.co/products/elasticsearch)
 * [Github源码](https://github.com/elastic/elasticsearch)
 * 《ElasticSearch 可扩展的开源弹性搜索解决方案》
+* [下载本节全部pdf](https://pan.baidu.com/s/11nxhFYm3Ni6rSrrDdoTFeg) *密码: mdoi*
 
 ## Hadoop
 
@@ -168,6 +191,7 @@
 * [Github源码](https://github.com/apache/hadoop)
 * 《Hadoop实战中文版》
 * 《Hadoop权威指南》
+* [下载本节全部pdf](https://pan.baidu.com/s/1TzJWRtSxP73pPlLg6N0c6w) *密码: rw1j*
 
 ## Zookeeper
 
@@ -194,14 +218,16 @@
 * [官网](http://tomcat.apache.org/)
 * [Github源码](https://github.com/apache/tomcat)
 * 《深入剖析Tomcat》
+* [下载本节全部pdf](https://pan.baidu.com/s/1wF2ZXLENNBnEKHkktI5sQg)  *密码：i4td*
 
 ## Netty
 
 * [官网](https://netty.io/)
 * [Github源码](https://github.com/netty/netty)
 * 《Netty实战》
-* 《Netty in action》*
-* 《Netty权威指南》*
+* 《Netty in action》
+* 《Netty权威指南》
+* [下载本节全部pdf](https://pan.baidu.com/s/1xrFvgN94idNtWwU1QweYbA)  *密码: 3ffn*
 
 ## Go
 
@@ -242,6 +268,11 @@
 * [Github源码](https://github.com/nginx/nginx)
 * 《深入理解nginx》*
 
+## ddd
+
+* [下载本节全部pdf](https://pan.baidu.com/s/1Srgcr0mB5HwlqZ0hDMHcGg)  *密码: 5g0p*
+* 《领域驱动设计.软件核心复杂性应对之道》
+
 ## 人工智能
 
 - 贝叶斯思维统计建模的Python学习法
@@ -256,9 +287,11 @@
 * 《[软件架构设计](https://book.douban.com/subject/30443578/)》*
 * 《[架构整洁之道](https://book.douban.com/subject/30333919/)》*
 * 《敏捷软件开发 》
+* [下载本节全部pdf](https://pan.baidu.com/s/1lYa1qPyKPGzZHUVcRN8j5g)  *密码: tu7m*
 
 ## 技术扩展
 
+- [下载本节全部pdf](https://pan.baidu.com/s/14TpEOyEnRx168BZtgge9FA)  *密码：5hhg*
 - 《黑客与画家》
 - 《代码大全》
 - 《浪潮之巅》
@@ -272,12 +305,73 @@
 - 《[集体智慧编程](https://book.douban.com/subject/3288908/)》
 - 《[程序员修炼之道](https://book.douban.com/subject/1152111/)》
 
+## 阿里出品书籍
+
+* [下载本节全部pdf](https://pan.baidu.com/s/1PvtJqELhYHcIqIFKWPx5zA) 密码：6fr0
+* Java开发手册华山版
+* 阿里巴巴开发手册-嵩山版
+* 《阿里技术参考图册》（算法篇）
+* 《阿里技术参考图册》（研发篇）
+* Elasticsearch 中国开发者调查报告
+* Flutter in action咸鱼实战
+* 《强化学习在阿里的技术演进与业务创新》
+* 5G+AI 阿里文娱技术实践.7天学会ECS
+* 2017阿里年度技术精选(上)
+* 2017阿里年度技术精选(下)
+* 阿里2020前端工程师必读手册
+* 阿里程序员面试宝典
+* 阿里工程师的自我修养
+* 阿里易搭0代码搭应用
+* 阿里云AIoT开发手册
+* 不一样的 双11 技术
+* 阿里巴巴经济体云原生实践
+* 大数据工程师必读手册
+* 高德技术
+* 深入浅出Kubernetes
+* 双 11 背后——支付宝技术升级战
+* 优酷 APP “暗黑模式”设计与技术完整总结
+* 长安十二时辰背后的技术秘籍
+
+## 美团出品
+
+* [下载本节全部pdf](https://pan.baidu.com/s/1jiKvRcLnBTibvof0P0xJrw)  *密码: psqc*
+* [美团技术官网](https://tech.meituan.com/)
+* 《美团_大数据篇》
+* 《_美团_后台篇》
+* 《美团_前端篇》
+* 《_美团_算法篇》
+* 《美团_学术论文篇》
+* 《美团点评2019年技术年货》
+
+## 简历模板
+
+* [下载1000套简历模板](https://pan.baidu.com/s/1GogC_t2e78zI0SsWP_I44w)  *密码: 83hq*
+
+## 面试题
+
+* [下载本节全部pdf](https://pan.baidu.com/s/1tN-oWRvc0CJ78ac3_AC1dg)  *密码: d0hj*
+* JVM面试专题及答案
+* Kafka面试专题及答案
+* Linux面试专题及答案
+* memcached面试专题及答案
+* MongoDB面试专题及答案
+* MyBatis面试专题及答案
+* MySQL题及答案
+* Netty面试专题及答案
+* Nginx面试专题及答案
+* RabbitMQ消息中间件面试专题及答案
+* Redis缓存穿透问题及解决方案
+* Spring面试专题及答案
+* SpringBoot面试专题及答案
+* SpringCloud面试题及答案
+* SQL优化面试专题及答案
+* Tomcat面试专题及答案
+* zookeeper面试专题及答案
+
 # 学习成长
 
 * 《知识大迁移》
-
 * 《如何阅读一本书》
-
 * 《剧变》
 * 《中国的当下与未来》
 * 《见识》
@@ -389,6 +483,7 @@
 * 《成功，從聚焦一件事開始》
 * 《想成功，先吃了那隻青蛙》
 * 《心態致勝》
+* 《瞬变 如何让你的世界变好一些》
 
 # 管理
 
@@ -418,11 +513,8 @@
 # 思维
 
 * 《人生的智慧》阿图尔·叔本华 著
-
 * 《当下的力量》-埃克哈特托利 著
-
 * 《365日：有猫更幸福》-中西直子 著
-
 * 《长夜难明》《无证之罪》《坏小孩》-紫金陈 著
 * 《思考，快与慢》
 * 《逆向思维成功策略》
@@ -456,6 +548,8 @@
 * 《异议的力量》
 *   《春夜十话》
 * 《批判性思维》
+* 《一本小小的蓝色逻辑书》
+* 《别做真正的傻瓜》
 
 # 时间管理
 
@@ -481,6 +575,14 @@
 《感知艺术》
 
 # 运营
+
+* 《运营之光》
+* 《从零开始做运营》
+* 《the copy book 全球32位顶尖广告文案的写作之道》
+* **《文案圣经》**
+* **《流量池》**
+* **《增长黑客》**
+* 《小群效应》
 
 # 销售
 
@@ -549,6 +651,8 @@
 * 《高绩效教练》
 * 《孵化皮克斯》艺术与金钱的博弈。如何坚守，不忘初心。
 * 《无价》冰冷的价格背后，是人类欲望的表达
+* 《餐巾纸的背面》
+* 《浪潮式发售》
 
 # 创意
 
@@ -559,6 +663,8 @@
 * 《狗看了我一眼》
 * 《这是什么意思》
 * 《符号中的历史》
+* 《蔚蓝诡计》
+* 《创意之道》
 
 # 英语
 
@@ -610,6 +716,7 @@
 * 《慧心自在》
 * 《心理韧性的力量》
 * 《行为设计学》
+* 《心理学的4项研究》
 
 # 哲学
 
@@ -620,7 +727,7 @@
 * 《为什么长大》
 * 《生活的哲学》
 * 《中国哲学简史》
-* **《悲剧的诞生》**
+* 《悲剧的诞生》
 * 《沉思录》
 * 《极简哲学史》
 
@@ -629,7 +736,7 @@
 * 《亲密关系》
 * 《爱上双人舞》
 * 《向前一步》
-* **《幸福的方法》**
+* 《幸福的方法》
 * 《幸福的婚姻》
 * 《婚姻的的意义》
 * 《纸短情长：世间最美的情书》
@@ -868,6 +975,7 @@
   * [miaosha](https://github.com/qiurunze123/miaosha)：秒杀系统设计与实现.互联网工程师进阶与分析
   * [jeecg-boot](https://github.com/zhangdaiscott/jeecg-boot)：强大的代码生成器让前后端代码一键生成，无需写任何代码。
   * [RuoYi](https://gitee.com/y_project/RuoYi)： 基于SpringBoot的权限管理系统 易读易懂、界面简洁美观。
+  * [roncoo-pay](https://github.com/roncoo/roncoo-pay) : 支付系统
 
 * Python
 
