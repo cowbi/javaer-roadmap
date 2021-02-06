@@ -11,17 +11,29 @@
   
 * 除此之外，javaer还需要了解一些圈外的认知：[学习](#学习成长)、[产品](#产品)、[运营](#运营)、[管理](#管理)、[英语](#英语)、[创业](#创业)、[思维](#思维)、[职场](#职场)、[情感](#情感)、[投资理财](#投资理财)、[销售](#销售)、[创意](#创意)、[超级大脑](#超级大脑)、[演讲&谈判](#演讲&谈判)。项目也分享了相关电子书和资料。
   
+* 外包网站：[外包](#外包)
+  
 * **关于电子书 下载 & 免责申明**
 
   本项目电子书全部来源于网络，这里只做整理，不得用于商业。如有侵权，联系秒删。微信/qq：252050992。
 
-  纸质图书购买地址均来**自京东自营** 或 **当当天猫旗舰店**
+  纸质图书购买地址均来**自京东自营** 或 **当当天猫旗舰店**。
 
-* 诚邀大家一起共建项目。
+* 诚邀大家一起共建项目，提交PR或者发Issue。也可以给这个仓库来个 Star 从而再次访问。
 
 * 配套公号「程序员读书俱乐部」**ID：CodeReading**，里面有更多知识的详解
 
   ![](static/image/weixin.png)
+
+# Roadmap
+
+想法来源于[java-developer-roadmap](https://github.com/s4kibs4mi/java-developer-roadmap) 和  [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) 。但是它们不够本地化，所以做了一份中国 Java 开发者的Roadmap。目前是V1.0版本，还有些需要改进的地方，欢迎大家发Issue。本图每年都会更新，用[processon](https://www.processon.com/)绘制。
+
+![javaer-roadmap](/Users/zhaoyancheng/data/javaer-roadmap/static/image/javaer-roadmap.png)
+
+# Reading-Roadmap
+
+更新中..... 
 
 # 技术
 
@@ -378,6 +390,15 @@
 * Tomcat面试专题及答案
 * zookeeper面试专题及答案
 
+# 外包
+
+* [开发邦](https://www.kaifabang.com/)
+* [解放号](https://www.jfh.com/)
+* [程序员客栈](https://www.proginn.com/)
+* [猿急送](https://www.yuanjisong.com/)
+* [开源众包](https://zb.oschina.net/)
+* [码市](https://codemart.com/)
+
 # 学习成长
 
 * 《知识大迁移》[购买正版](https://union-click.jd.com/jdc?e=&p=AyIGZRprFQEQA1AaWhcyVlgNRQQlW1dCFFlQCxxKQgFHRE5XDVULR0UVARADUBpaFx1LQglGax18CF41bAddYWBxKxkpcUsRT0tkU2UOHjdUK1sUAxMCUhxdEQIiN1Uca0NsEgZUGloUBxAAVytaJQIVB1YfWxAEFA9dHl4lBRIOZUsEQEpAXg1fWBQCEjdlK1glMiIHZRhrV2wSUwEZXhNSFw5TEwkQAxEOXUwORwYWAgEfWB0KFwIAGGsXAxMDXA%3D%3D)
@@ -478,13 +499,12 @@
 * 《成功EQ密码》[购买正版](https://union-click.jd.com/jdc?e=&p=AyIGZRprFQMQBlEeXBwyVlgNRQQlW1dCFFlQCxxKQgFHRE5XDVULR0UVAxAGUR5cHB1LQglGa0x%2FbmMdcgR2Z019XFBBEXtTfzduPFMOHjdUK1sUAxMCUhxdEQIiN1Uca15sEzdUK1sSAhEDVhpSFQMRBVUrXBULIlcKThNHW0pDVhpbFTIiN1YrayUCIgRlWTVCVRVSXB9YFgdCBFIeXUJQGlRdG1oUUEdTAhNTEgQQV2UZWhQGGw%3D%3D)
 * 《深度工作》[购买正版](https://union-click.jd.com/jdc?e=&p=AyIGZRprFQETD1cSUxEyVlgNRQQlW1dCFFlQCxxKQgFHRE5XDVULR0UVARMPVxJTER1LQglGaxRlb1VLHwdqYVFDUG8MQlhxcysTWWUOHjdUK1sUAxMCUhxdEQIiN1Uca0NsEgZUGloUBRIDVStaJQIVB1YfWBQLGwdVGlIlBRIOZUsEQEpAXg1fWBQCEjdlK1glMiIHZRhrV2wTB1AfX0YLFAdXGVIQABNVXBMOFQAVAVEdUkEGFAEAGmsXAxMDXA%3D%3D)
 * 《如何做一个优等生》购买正版
-* 《這輩子，只能這樣嗎》购买正版
-* 《先別急著吃棉花糖》购买正版
-* 《不拖延的人生》购买正版
-* 《成功，從聚焦一件事開始》购买正版
-* 《想成功，先吃了那隻青蛙》购买正版
-* 《心態致勝》购买正版
-* 《瞬变 如何让你的世界变好一些》购买正版
+* 《这辈子，只能这样吗》[购买正版](https://union-click.jd.com/jdc?e=&p=AyIGZRprFQEXAVQeUxEyVlgNRQQlW1dCFFlQCxxKQgFHRE5XDVULR0UVARcBVB5TER1LQglGa0t4FEIURiRoYlBhN2g9RX1BACgFDFMOHjdUK1sUAxMCUhxdEQIiN1Uca0NsEgZUGloUBxEFUCtaJQIVB1YfWRcAGgVUGlglBRIOZUsEQEpAXg1fWBQCEjdlK1glMiIHZRhrV2xGA1ccUhUAEg9VEloQBRsPXEhSFFcQB1YSDxYFRwJXTmsXAxMDXA%3D%3D)
+* 《先別急著吃棉花糖》[购买正版](https://union-click.jd.com/jdc?e=&p=AyIGZRhfHAMXDlQcXxQyEgZcE1oTBRs3EUQDS10iXhBeGlcJDBkNXg9JHUlSSkkFSRwSBlwTWhMFGxgMXgdIMhpnPVArSltbZBJfCGhEcHkwbAZ9aXILWStaJQITBlQeXBIEFgdlK1sSMkRpVRpaFAMTA1EcWyUDIgdSG1gRABACUBJTFAoiAFUSa0VdR08HQgNRARMHVStrJQEiN2UbaxYyUGkBTlwcAEdXAU5dEQMXUwJMUhMEEFVSGwtAABpSXEhcEDIQBlQfUg%3D%3D)
+* 《不拖延的人生》[购买正版](https://union-click.jd.com/jdc?e=&p=AyIGZRprFQEVAFAZWRcyVlgNRQQlW1dCFFlQCxxKQgFHRE5XDVULR0UVARUAUBlZFx1LQglGa31rFQQBWz5zZ3V5NGMrFAFLRyoBRVMOHjdUK1sUAxMCUhxdEQIiN1Uca15sEzdUK1sSAhEDVxleHQUVBV0rXBULIlcKThNHW0pDVhpbFTIiN1YrayUCIgRlWTVBCkADUh0JHFURAFUeXRIHQlNVH14RBEBTAUwMHQYbD2UZWhQGGw%3D%3D)
+* 《成功，從聚焦一件事開始》[购买正版](https://union-click.jd.com/jdc?e=&p=AyIGZRprFQUTD1YfWhQyVlgNRQQlW1dCFFlQCxxKQgFHRE5XDVULR0UVBRMPVh9aFB1LQglGa0tLVn4eUD9QZ0RDL0sYElhBfgwZL2UOHjdUK1sUAxMCUhxdEQIiN1Uca0NsEgZUGloUBhIPVitaJQIVB1YfWRcGFwRRE1MlBRIOZUsEQEpAXg1fWBQCEjdlK1glMiIHZRhrV2xCBFceCUADRVQCE1MQUBpXBkkMFQcVD1ESWxUBQgUCT2sXAxMDXA%3D%3D)
+* 《心態致勝》[购买正版](https://union-click.jd.com/jdc?e=&p=AyIGZRprFQEaB1QcWhYyVlgNRQQlW1dCFFlQCxxKQgFHRE5XDVULR0UVARoHVBxaFh1LQglGa1JnaHBSEl9qZ3VTPnsyYHZlAz5uA3UOHjdUK1sUAxMCUhxdEQIiN1Uca0NsEgZUGloUBxsEVStaJQIVB1YfWRcFFwZWGlolBRIOZUsEQEpAXg1fWBQCEjdlK1glMiIHZRhrV2waAABICRYCFgQFGFgQAhFQBh8LRlEXAQccWxEHFA5UGGsXAxMDXA%3D%3D)
+* 《瞬变 如何让你的世界变好一些》[购买正版](https://union-click.jd.com/jdc?e=&p=AyIGZRprFQIQAVwZWxQyVlgNRQQlW1dCFFlQCxxKQgFHRE5XDVULR0UVAhABXBlbFB1LQglGa2AEZVwNeSALYlkdM30HZ1hzRQwTA2UOHjdUK1sUAxMCUhxdEQIiN1Uca0NsEgZUGloUBxEFUStaJQIVB1YfWRcEEgdVGFslBRIOZUsEQEpAXg1fWBQCEjdlK1glMiIHZRhrV2xABQceXhFWEw4CGlIQBxMBBU4MFgZBAlVMDBBWRVUFHmsXAxMDXA%3D%3D)
 
 # 健康
 
@@ -581,7 +601,7 @@
 
 《感知艺术》
 
-# 运营
+# 营销
 
 * 《运营之光》
 * 《从零开始做运营》
@@ -591,8 +611,6 @@
 * **《增长黑客》**
 * 《小群效应》
 
-# 销售
-
 * 《**销售的金钥匙**》
 * **《世界上最伟大的推销员》**
 * **《每天学点销售礼仪》**
@@ -600,7 +618,6 @@
 * **《定位》**
 * **《免费》**
 * **《销售中的心理学》**
-
 * **《成交高于一切大客户销售十八招》**
 * **《绝对成交话术内训手册》**
 * **《客户服务与客户投诉，抱怨处理技巧》**
@@ -609,6 +626,18 @@
 * 《共情营销》
 * 《吸金广告》
 * 《销售巨人：大订单销售训练手册》
+* [人人都是产品经理](http://www.woshipm.com/)
+* [广告门](https://www.adquan.com/)
+* [数英](https://www.digitaling.com/)
+* [4a广告提案网](http://www.4aquan.com/)
+* [梅花网](https://www.meihua.info/)
+* [顶尖文案](https://www.topys.cn/)
+* [文案狗](http://www.wenangou.com/)
+* [千图网](https://www.58pic.com/)
+* [花瓣](https://huaban.com/)
+* [新榜](https://www.newrank.cn/)
+* [飞瓜](https://www.feigua.cn/)
+* [抖查查](https://www.douchacha.com/)
 
 # 创业
 
@@ -692,8 +721,6 @@
 《英语词根揭秘-英语单词词根连锁记忆法》
 
 《1368个单词就够了》-王乐平老师
-
-
 
 # 心理
 
