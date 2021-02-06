@@ -29,7 +29,7 @@
 
 想法来源于[java-developer-roadmap](https://github.com/s4kibs4mi/java-developer-roadmap) 和  [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) 。但是它们不够本地化，所以做了一份中国 Java 开发者的Roadmap。目前是V1.0版本，还有些需要改进的地方，欢迎大家发Issue。本图每年都会更新，用[processon](https://www.processon.com/)绘制。
 
-![javaer-roadmap](/Users/zhaoyancheng/data/javaer-roadmap/static/image/javaer-roadmap.png)
+![javaer-roadmap](static/image/javaer-roadmap.png)
 
 # Reading-Roadmap
 
